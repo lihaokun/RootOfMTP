@@ -46,6 +46,6 @@ There is 1 real root with multiplicity 1 in each open interval of the list
 [^1]:=https://sysmath.com/jweb_xtkxysx/CN/10.12341/jssms12871
 [^2]:=https://arxiv.org/abs/2204.01481
 
-## Experimental Results
+<!-- ## Experimental Results
 We present our experimental results in our paper.
-All tests were conducted on 16-Core Intel Core i7-12900KF@3.20GHz with 128GB of memory and Windows 11.
+All tests were conducted on 16-Core Intel Core i7-12900KF@3.20GHz with 128GB of memory and Windows 11. -->
