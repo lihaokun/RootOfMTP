@@ -1,5 +1,5 @@
 # RootOfMTP
-The tool "RootOfMTP" isolates all the real roots of a mixed trigonometric-polynomial (MTP) with Maple 2021.
+The tool "RootOfMTP" isolates all the real roots of a mixed trigonometric-polynomial (MTP) based on Maple.
 
 ## Code
 All code is in "RootOfMTP.mpl" and "mainIBR.mpl".
