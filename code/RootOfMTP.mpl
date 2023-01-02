@@ -307,6 +307,9 @@ if tempnum<>0 then
     OneRootOutput(1, tempnum, [0,0]);
 end if;
 tanpoly := simplify(tanpoly/tfactor);
+printf("tanpoly_xt: %a\n", tanpoly);
+tanpoly := simplify(tanpoly/gcd(tanpoly, diff(tanpoly,t)));
+# tanpoly := simplify(tanpoly/gcd(tanpoly, diff(tanpoly,var)));
 # 处理 tanpoly 的既含 x 又含 t 的全部因子
 printf("tanpoly_xt: %a\n", tanpoly);
 if  degree(tanpoly, var)<>0 then 
